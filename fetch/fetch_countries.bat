@@ -1,0 +1,2 @@
+python fetch_countries.py
+pause

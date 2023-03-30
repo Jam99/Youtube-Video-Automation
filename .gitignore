@@ -1,0 +1,5 @@
+.idea
+output/*
+output_uploaded/*
+client_secret.json
+video/intro_background_not_compressed.avi
